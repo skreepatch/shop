@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+$lang['showing_results'] = 'showing result: ';
+$lang['results_from'] = 'from';
+$lang['results_to'] = 'to';
+$lang['results'] = 'results';
+$lang['page'] = 'page';
+$lang['results_of'] = 'out of';
+$lang['pages'] = 'pages';
+$lang['results_fromtotal'] = 'from total';
+$lang['read_more'] = 'read more';
+$lang['search'] = 'Search:';
+$lang['letter_filter'] = 'Search by name:';
+$lang['buy_now'] = 'Buy now';
+$lang['testimonials'] = 'Testimonials';
+$lang['news'] = 'News';
+$lang['faqs'] = 'Frequently Asked Questions';
+$lang['contact_us'] = 'Contact Us';
+$lang['name'] = 'name';
+$lang['email'] = 'email address';
+$lang['subject'] = 'subject';
+$lang['message'] = 'message';
+$lang['submit'] = 'send';
