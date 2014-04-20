@@ -1,4 +1,4 @@
 shop
 ====
 
-e-commerce engine build in Codeigniter Framework
+e-commerce engine build with Codeigniter Framework
